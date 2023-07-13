@@ -1,4 +1,5 @@
 ## Hello! I'm Alexander Little  :wave:  
-Graduate Student and Research Assistant at Texas State University :man_technologist:  
-Entering the field of Data Science December of 2022 :astronaut:  
+MSE - Industrial ENgineering from Texas State University (Wannabe Computer Scientist) :man_technologist:  
+Pricing Data Science :astronaut:
+
 
